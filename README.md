@@ -1,3 +1,2 @@
-# javascript-syntax-parser
-
-Implemented using functional style programming in Haskell.
+# JavaScript-Syntax-Parser
+Program that can parse javascript syntax using parser combinator in Haskell
